@@ -12,12 +12,12 @@ public class UsersController {
 	public void registerUser(@RequestBody UsersRegistrationDTO UsersRegistrationDTO) {
 		
 		
-		
 	}
 	@PostMapping("/login")
 	public void loginUsers() {
 		
 	}
+	
 	@PostMapping("/update_user")
 	public void updateUsers() {
 		
